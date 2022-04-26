@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Developer</h3>
 
 
-- 🔭 I’m currently working on **Armut Projects** armut.com
+- 🔭 I’m currently working on **[Armut Projects](http://armut.com)** 
 
 - 🌱 I’m currently learning **KMM, BlockChain**
 

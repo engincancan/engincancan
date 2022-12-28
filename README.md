@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **[Armut Projects](http://armut.com)** 
 
-- 🌱 I’m currently learning **KMM, BlockChain**
+- 🌱 I’m currently learning **KMM, BlockChain, RN**
 
 - 💬 Ask me about **android, kotlin, anything related with mobile**
 
